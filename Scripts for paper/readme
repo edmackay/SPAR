@@ -1,1 +1,3 @@
 Run scripts in this folder to generate figures shown in paper.
+
+Make sure to add the folder containing the functions to the MATLAB path: addpath(genpath('..\functions'))
